@@ -1,0 +1,146 @@
+body {
+    background-image: url("materials/background.png");
+}
+
+.fons {
+    height: 100%;
+    width: 100%;
+}
+
+.youtube {
+    position: relative;
+    top: -1030px;
+    left: 1730px;
+    width: 100px;
+    height: 100px;
+    background-image: url("materials/lings1.png");
+    cursor: pointer;
+}
+
+.telega {
+    position: relative;
+    top: -1030px;
+    left: 1500px;
+    width: 100px;
+    height: 100px;
+    background-image: url("materials/lings2.png");
+    cursor: pointer;
+}
+
+.vk {
+    position: relative;
+    top: -1030px;
+    left: 1270px;
+    width: 100px;
+    height: 100px;
+    background-image: url("materials/lings3.png");
+    cursor: pointer;
+}
+
+.tt {
+    position: relative;
+    top: -1030px;
+    left: 1040px;
+    width: 100px;
+    height: 100px;
+    background-image: url("materials/lings4.png");
+    cursor: pointer;
+}
+
+.diskord {
+    position: relative;
+    top: -1030px;
+    left: 810px;
+    width: 100px;
+    height: 100px;
+    background-image: url("materials/lings5.png");
+    cursor: pointer;
+}
+
+.textfull {
+    font-size: 60px;
+    color: white;
+    padding-left: 40px;
+}
+
+.skrin1 {
+    position: absolute;
+    width: 500px;
+    height: 250px;
+    left:90px;
+
+}
+
+.skrin2 {
+    position: absolute;
+    width: 500px;
+    height: 250px;
+    right: 690px;
+}
+
+.skrin3 {
+    position: absolute;
+    width: 500px;
+    height: 250px;
+    right: 90px;
+}
+
+.skrin4 {
+    position: absolute;
+    width: 500px;
+    height: 250px;
+    left: 90px;
+    top: 3400px;
+}
+
+.skrin5 {
+    position: absolute;
+    width: 500px;
+    height: 250px;
+    right: 690px;
+    top: 3400px;
+}
+
+.skrin6 {
+    position: absolute;
+    width: 500px;
+    height: 250px;
+    right: 90px;
+    top: 3400px;
+}
+
+
+.skrin7 {
+    position: absolute;
+    width: 500px;
+    height: 250px;
+    left: 90px;
+    top: 3730px;
+}
+
+.skrin8 {
+    position: absolute;
+    width: 500px;
+    height: 250px;
+    right: 690px;
+    top: 3730px;
+}
+
+.skrin9 {
+    position: absolute;
+    width: 500px;
+    height: 250px;
+    right: 90px;
+    top: 3730px;
+}
+
+.razdelenie {
+    position: absolute;
+    top: 4400px;
+    width: 1855px;
+}
+
+.IP {
+    position: absolute;
+    top: 4450px;
+}
