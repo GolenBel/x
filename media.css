@@ -1,0 +1,349 @@
+@media (min-width: 1200px)  {
+    .fons {
+        height: 871px;
+        width: 1850px;
+    }
+
+    .textfull {
+        width: 1800px;
+    }
+
+    .youtube {
+        top: 30px;
+    }
+
+
+    .telega {
+        top: -853px;
+        left: 1600px;
+    }
+
+    .vk {
+        top: -853px;
+        left: 1370px;
+    }
+
+    .tt {
+        top: -853px;
+        left: 1140px;
+    }
+
+    .diskord {
+        top: -853px;
+        left: 910px;
+    }
+
+    .skrin1 {
+        left: 90px;
+    }
+
+    .skrin2 {
+        left: 680px;
+    }
+
+    .skrin3 {
+        left: 1280px;
+    }
+
+    .skrin4 {
+        top: 3300px;
+        left: 90px;
+    }
+
+    .skrin5 {
+        top: 3300px;
+        left: 680px;
+    }
+
+    .skrin6 {
+        top: 3300px;
+        left: 1280px;
+    }
+
+
+    .skrin7 {
+        top: 3700px;
+        left: 90px;
+    }
+
+    .skrin8 {
+        top: 3700px;
+        left: 680px;
+    }
+
+    .skrin9 {
+        top: 3700px;
+        left: 1280px;
+    }
+}
+
+@media (min-width: 992px) {
+    .fons {
+        height: 992px;
+        width: 1850px;
+    }
+
+    .textfull {
+        width: 1800px;
+    }
+
+    .youtube {
+        top: 30px;
+    }
+
+
+    .telega {
+        top: -973px;
+        left: 1600px;
+    }
+
+    .vk {
+        top: -973px;
+        left: 1370px;
+    }
+
+    .tt {
+        top: -973px;
+        left: 1140px;
+    }
+
+    .diskord {
+        top: -973px;
+        left: 910px;
+    }
+
+    .skrin1 {
+        left: 90px;
+    }
+
+    .skrin2 {
+        left: 680px;
+    }
+
+    .skrin3 {
+        left: 1280px;
+    }
+
+    .skrin4 {
+        top: 3355px;
+        left: 90px;
+    }
+
+    .skrin5 {
+        top: 3355px;
+        left: 680px;
+    }
+
+    .skrin6 {
+        top: 3355px;
+        left: 1280px;
+    }
+
+
+    .skrin7 {
+        top: 3700px;
+        left: 90px;
+    }
+
+    .skrin8 {
+        top: 3700px;
+        left: 680px;
+    }
+
+    .skrin9 {
+        top: 3700px;
+        left: 1280px;
+    }
+}
+
+@media (min-width: 768px) {
+    .fons {
+        height: 992px;
+        width: 1850px;
+    }
+
+    .textfull {
+        width: 1800px;
+    }
+
+    .youtube {
+        top: 30px;
+    }
+
+
+    .telega {
+        top: -973px;
+        left: 1600px;
+    }
+
+    .vk {
+        top: -973px;
+        left: 1370px;
+    }
+
+    .tt {
+        top: -973px;
+        left: 1140px;
+    }
+
+    .diskord {
+        top: -973px;
+        left: 910px;
+    }
+
+    .skrin1 {
+        left: 90px;
+    }
+
+    .skrin2 {
+        left: 680px;
+    }
+
+    .skrin3 {
+        left: 1280px;
+    }
+
+    .skrin4 {
+        top: 3355px;
+        left: 90px;
+    }
+
+    .skrin5 {
+        top: 3355px;
+        left: 680px;
+    }
+
+    .skrin6 {
+        top: 3355px;
+        left: 1280px;
+    }
+
+
+    .skrin7 {
+        top: 3700px;
+        left: 90px;
+    }
+
+    .skrin8 {
+        top: 3700px;
+        left: 680px;
+    }
+
+    .skrin9 {
+        top: 3700px;
+        left: 1280px;
+    }
+}
+
+@media (min-width: 480px) {
+}
+
+@media (min-width: 320px) {
+    .fons {
+        height: 992px;
+        width: 1270px;
+    }
+
+    .textfull {
+        width: 1200px;
+    }
+
+    .youtube {
+        top: 30px;
+        left: 1150px;
+    }
+
+
+    .telega {
+        top: -973px;
+        left: 1000px;
+    }
+
+    .vk {
+        top: -973px;
+        left: 760px;
+    }
+
+    .tt {
+        top: -973px;
+        left: 525px;
+    }
+
+    .diskord {
+        top: -973px;
+        left: 295px;
+    }
+
+    .skrin1 {
+        top: 3700px;
+        left: 90px;
+        width: 300px;
+        height: 150px;
+    }
+
+    .skrin2 {
+        top: 3700px;
+        left: 490px;
+        width: 300px;
+        height: 150px;
+    }
+
+    .skrin3 {
+        top: 3700px;
+        left: 880px;
+        width: 300px;
+        height: 150px;
+    }
+
+    .skrin4 {
+        top: 4000px;
+        left: 90px;
+        width: 300px;
+        height: 150px;
+    }
+
+    .skrin5 {
+        top: 4000px;
+        left: 490px;
+        width: 300px;
+        height: 150px;
+    }
+
+    .skrin6 {
+        top: 4000px;
+        left: 880px;
+        width: 300px;
+        height: 150px;
+    }
+
+
+    .skrin7 {
+        top: 4300px;
+        left: 90px;
+        width: 300px;
+        height: 150px;
+    }
+
+    .skrin8 {
+        top: 4300px;
+        left: 490px;
+        width: 300px;
+        height: 150px;
+    }
+
+    .skrin9 {
+        top: 4300px;
+        left: 880px;
+        width: 300px;
+        height: 150px;
+    }
+
+    .razdelenie {
+        width: 1270px;
+        top: 4500px;
+    }
+
+    .IP {
+        top: 4600px;
+    }
+}
